@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of flavn/flarum-ext-vie.** Not for installation: use [Packagist](https://packagist.org/packages/flavn/flarum-ext-vie) or the [upstream repository](https://github.com/flavn/flarum-ext-vie).
 
-**0** versions archived · Latest: [`v0.1.11`](https://github.com/flarchive/flavn-flarum-ext-vie/tree/archive/v0.1.11) · License: `MIT` · Flarum: `^0.1.0-beta.11`
+**1** versions archived · Latest: [`v0.1.11`](https://github.com/flarchive/flavn-flarum-ext-vie/tree/archive/v0.1.11) · License: `MIT` · Flarum: `^0.1.0-beta.11`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.11` | 2020-02-19 | `^0.1.0-beta.11` | [Browse](https://github.com/flarchive/flavn-flarum-ext-vie/tree/archive/v0.1.11) |
 
 Catalog entry: [packages/flavn-flarum-ext-vie.json](https://github.com/flarchive/archive-index/blob/main/packages/flavn-flarum-ext-vie.json)
 
